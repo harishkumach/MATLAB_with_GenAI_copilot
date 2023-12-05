@@ -1,3 +1,5 @@
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=harishkumach/MATLAB_with_GenAI_copilot)
+
 # MATLAB_with_GenAI_copilot
 AI as a MATLAB Co-Pilot: Accelerate your MATLAB projects with Generative AI
 
