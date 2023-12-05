@@ -1,5 +1,3 @@
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=harishkumach/MATLAB_with_GenAI_copilot)
-
 https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=harishkumach/MATLAB_with_GenAI_copilot&file=https://github.com/harishkumach/MATLAB_with_GenAI_copilot/blob/master/data_analysis.mlx)
 
 # MATLAB_with_GenAI_copilot
